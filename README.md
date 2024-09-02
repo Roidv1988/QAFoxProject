@@ -27,7 +27,7 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 
 ## 📊 Reports
   ```bash
-  mvn allure:serve
+  allure serve allure-results
   ```
 <p>
   <img src="screenshots/allurescreenshot.png" width="50%" title="Allure Screenshot"  />
