@@ -30,7 +30,7 @@ The project follows the Page Object Model (POM) design pattern for a modular and
   mvn allure:serve
   ```
 <p>
-  <img src="screenshots/qafoxscreenshot.png" width="50%" title="Website Screenshot"  />
+  <img src="screenshots/allurescreenshot.png" width="50%" title="Allure Screenshot"  />
 </p>
 
 ## 📊 Reports Examples
