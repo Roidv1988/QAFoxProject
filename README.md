@@ -29,6 +29,10 @@ The project follows the Page Object Model (POM) design pattern for a modular and
   ```bash
   mvn allure:serve
   ```
+<p>
+  <img src="screenshots/qafoxscreenshot.png" width="50%" title="Website Screenshot"  />
+</p>
+
 ## 📊 Reports Examples
 <p>
   <img src="ScreenShots/tc02_addTask1615288676297.jpg" width="40%" title="Example for screenshot on failure"  />
