@@ -9,7 +9,7 @@ This repository contains a comprehensive automated testing project built with Ja
 The project follows the Page Object Model (POM) design pattern for a modular and maintainable test suite.
 
 <p>
-  <img src="/screenshots/qafox screenshot.png" width="70%" title="Example for screenshot on failure"  />
+  <img src="/screenshots/qafox screenshot.png" width="70%" title="Website Screenshot"  />
 </p>
 
 ## 📑 Technologies & Skill & Features
