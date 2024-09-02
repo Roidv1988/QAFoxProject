@@ -48,18 +48,46 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 
 ## 📁 Project Structure
 ```
-├───.settings
-├───bin
-│   ├───pages
-│   └───tests
-├───src
-│   ├───pages
-│   └───tests
-└───test-output
-    ├───Default suite
-    ├───junitreports
-    └───old
-        └───Default suite
+├── ScreenShots
+│  
+├── allure-results
+│  
+├── pom.xml
+│  
+├── src
+│   ├── main
+│   │   ├── java
+│   │   └── resources
+│   └── test
+│       ├── java
+│       │   ├── pages
+│       │   │    
+│       │   ├── tests
+│       │   │   
+│       │   └── utils
+│       │     
+│       └── resources
+│           └── data
+│               └── conf.properties
+├── target
+│   ├── classes
+│   │   └── META-INF
+│   │       ├── MANIFEST.MF
+│   │       └── maven
+│   │           └── com.qafox
+│   │               └── QafoxProject
+│   │                   ├── pom.properties
+│   │                   └── pom.xml
+│   └── test-classes
+│       ├── data
+│       │   └── conf.properties
+│       ├── pages
+│       ├── tests
+│       └── utils
+│           └── Utils.class
+├── test-output
+│   
+└── testng.xml
 ```
 
 Thanks for visiting my GitHub profile! 😊
