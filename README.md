@@ -35,8 +35,8 @@ The project follows the Page Object Model (POM) design pattern for a modular and
 
 ## 📊 Reports Examples
 <p>
-  <img src="ScreenShots/tc02_addTask1615288676297.jpg" width="40%" title="Example for screenshot on failure"  />
-  <img src="ScreenShots/tc01_addTask1614893191281.jpg" width="40%" alt="Example for screenshot on failure" />
+  <img src="screenshots/tc01_contactUsTest.jpg" width="40%" title="Bug Screenshot"  />
+  <img src="screenshots/tc03_CategoryOpeningTest.jpg" width="40%" alt="Bug Screenshot" />
 </p>
 
 
