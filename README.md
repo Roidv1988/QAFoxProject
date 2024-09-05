@@ -4,6 +4,8 @@
 
 https://tutorialsninja.com/demo/index.php?route=common/home
 
+The test scripts included login and logout tests, end tests (adding a product until a purchase is completed), adding and removing products from the shopping cart, adding and removing products from the Wish List, price validation tests, and menu and contact validation.
+
 ## 📖 Overview
 
 This repository contains a comprehensive automated testing project built with Java, TestNG, and Allure Reports. 
