@@ -41,11 +41,6 @@ The project follows the Page Object Model (POM) design pattern for a modular and
   <img src="screenshots/tc03_CategoryOpeningTest.jpg" width="40%" alt="Bug Screenshot" />
 </p>
 
-
-## 📖 Prerequisites
-
-- Write here your Prerequisites if exists.
-
 ## 🚀 Getting Started
 
 1. **Clone the Repository:**
