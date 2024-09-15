@@ -1,6 +1,6 @@
 
 # 💻 My Automation Project 
-✅ This is a testing automation demo project that tests a eCommerce demo site called: Qafox.com
+✅ This is a testing automation demo project that tests a eCommerce demo site called: QAFox.com
 
 https://tutorialsninja.com/demo/index.php?route=common/home
 
